@@ -1,7 +1,7 @@
 ### Olá!👋 Meu nome e Paulo tenho 18 anos e estudando programação 📜💾 
 
 <pre>
-<u>Me aperfeiçoando</u>
+<u> Me aperfeiçoando </u>
 </pre>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulopc777&show_icons=true&theme=radicalcustom_title=startos)
