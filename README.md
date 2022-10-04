@@ -4,7 +4,7 @@
 <u> Me aperfeiçoando </u>
 </pre>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulopc777&show_icons=true&theme=radicalcustom_title=startos)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?paulopc777=anuraghazra&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulopc777)](https://github.com/anuraghazra/github-readme-stats)
 ##
