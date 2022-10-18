@@ -1,5 +1,5 @@
 ### Olá!👋 Meu nome e Paulo tenho 18 anos e estudando programação 📜💾 
-
+<main>
 <pre>
 <u> Me aperfeiçoando </u>
 </pre>
@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulopc777)](https://github.com/anuraghazra/github-readme-stats)
 ##
 <br>
-<div style="cursor:default; display:flex; justify-content: center;">
+<div style="cursor:default;">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=50px/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=50px/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height=50px/>
@@ -26,4 +26,5 @@
       
       
 ![snake gif](https://github.com/paulopc777/paulopc777/blob/output/github-contribution-grid-snake.svg)
+ </main>
       
