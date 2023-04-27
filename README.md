@@ -9,7 +9,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulopc777)](https://github.com/anuraghazra/github-readme-stats)
 ##
 <br>
-<div style="cursor:default;">
+<div style="cursor:default; display: flex;
+    justify-content: space-evenly; ">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=50px/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=50px/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height=50px/>
