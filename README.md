@@ -11,7 +11,7 @@
 ##
 <br>
                     <style>
-            sudo{
+            .sudo{
             cursor: pointer;
                 display: flex;
     justify-content: space-evenly;
