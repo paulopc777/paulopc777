@@ -10,7 +10,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulopc777)](https://github.com/anuraghazra/github-readme-stats)
 ##
 <br>
-                    <style>
+            
+  <svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+                  <style>
             .sudo{
             cursor: pointer;
                 display: flex;
@@ -18,7 +22,8 @@
             
             }
 </style>
-<div class="sudo">
+            
+            <div class="sudo">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=50px/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=50px/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height=50px/>
@@ -28,6 +33,10 @@
   ##
           
 </div>
+        </div>
+    </foreignObject>
+</svg>
+
 
 <div>
 <a href="https://www.linkedin.com/in/paulo-cesar-dos-santos-granzieri-a5783b208/"><img src"https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
