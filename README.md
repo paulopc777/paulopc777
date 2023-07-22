@@ -1,8 +1,8 @@
-### Olá!👋 Meu nome e Paulo tenho 19 anos e estudando programação 📜💾 
+### Olá!👋 Meu nome e Paulo tenho 19 anos me aprimorando em  programação 📜💾 
 
 <main>
 <pre>
-<u> Html Css Javascript PHP Python  </u>
+<u>Typescript Next.js Node.js Express.js Python</u>
 </pre>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulopc777&show_icons=true&theme=Default)
