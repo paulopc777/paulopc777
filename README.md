@@ -1,9 +1,9 @@
 ### Olá!👋 Meu nome e Paulo tenho 19 anos me aprimorando em  programação 📜💾 
 
 <main>
- <h1>Typescript Next.js Node.js Express.js Python<h1/>                       
+ <h1>Full stack<h1/>                       
 <pre>
-<u>Typescript Next.js Node.js Express.js Python</u>
+<u><small>Next.js Node.js Python</small></u>
 </pre>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulopc777&show_icons=true&theme=Default)
