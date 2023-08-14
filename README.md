@@ -40,7 +40,7 @@
 <p align="center">
    <a href="https://www.linkedin.com/in/paulo-cesar-dos-santos-granzieri-a5783b208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "mailto:Paulinho.pc@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="discordapp.com/users/375701358726348804" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" target="_blank"></a>
+  <a href="https://discordapp.com/users/375701358726348804" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" target="_blank"></a>
 </p>
 
 <!-- ###### END OF SOCIAL MEDIA LINKS ##### -->
