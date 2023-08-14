@@ -1,6 +1,6 @@
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F741&width=435&lines=Ol%C3%A1!%F0%9F%91%8B+Meu+nome+e+Paulo+)](https://git.io/typing-svg)
+<div align="center">
+  <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F741&width=435&lines=Ol%C3%A1!%F0%9F%91%8B+Meu+nome+e+Paulo+" alt="Typing SVG" />
+</div>
 
 
 <!-- ###### Languages | Tools ##### -->
