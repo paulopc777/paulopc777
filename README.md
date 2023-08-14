@@ -36,11 +36,12 @@
 </h4>
 
 
+
+
 <p align="center">
- <a href="https://www.linkedin.com/in/paulo-cesar-dos-santos-granzieri-a5783b208/" target="_blank" rel="noreferrer"><img src="https://github.com/paulopc777/paulopc777/assets/62563753/05ec7b27-a554-47ec-aa25-abf0568ab19a" width="35"/></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/instagram-512.png" width="35"/></a>
- <a href="#" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/linkedin-512.png" width="35" /></a>
- <a href="#" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/twitter-512.png" width="35" /></a>
+   <a href="https://www.linkedin.com/in/paulo-cesar-dos-santos-granzieri-a5783b208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href = "mailto:Paulinho.pc@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" target="_blank"></a>
 </p>
 
 <!-- ###### END OF SOCIAL MEDIA LINKS ##### -->
