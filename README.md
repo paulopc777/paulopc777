@@ -3,8 +3,8 @@
 <img src="./name.svg" height="60%">
 
 
-## Minhas Skills 
-
+<h3 align="center"> Minhas Skills </h3>
+<hr>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/99139310/178839919-98285d21-873f-4058-a649-3715f34b759e.png" width="35px">
 <img src="https://user-images.githubusercontent.com/99139310/180587435-202f49ee-35d9-4486-88ad-aa20732f5847.png" width="35px">
@@ -18,15 +18,18 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="35px">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="35px">
 </div>
+<hr>
+<br>
 
-
-<code>
-
-Programador Full Stack 💻
-
+<div align="center">
+<code>Programador Full Stack 💻
 Amante de Tecnologia ❤️
-
 Cursando analise e desenvolvimentod e sistemas 🚀
+Sempre evoluindo 📈</code>
+</div>
 
-Sempre evoluindo 📈
-</code>
+
+> [!IMPORTANT]
+> Me siga :shipit:
+> <a href="https://www.linkedin.com/in/paulo-cesar-a5783b208/"></a>
+
