@@ -31,5 +31,5 @@ Sempre evoluindo 📈</code>
 
 > [!IMPORTANT]
 > Me siga :shipit:
-> <a href="https://www.linkedin.com/in/paulo-cesar-a5783b208/"></a>
+<a href="https://www.linkedin.com/in/paulo-cesar-a5783b208/">linkedin</a>
 
