@@ -8,7 +8,7 @@
     .text {
     color: white;
     flex-direction: column;
-    font-size:.2rem;
+    font-size:.3rem;
     justify-content:center;
     align-items:center;
     font-family: monospace;
@@ -22,6 +22,11 @@
 
     .back{
       background-color:black;
+    }
+    .emoji{
+      display:flex;
+      justify-content:center;
+    align-items:center;
     }
   </style>
 
