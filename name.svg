@@ -1,14 +1,14 @@
-<svg viewBox="0 0 200 30" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 200 40" xmlns="http://www.w3.org/2000/svg">
   <style>
     .back{
       display:flex;
-      justify-content: space-evenly;
+      justify-content: space-around;
     }
 
     .text {
     color: white;
     flex-direction: column;
-    font-size:.3rem;
+    font-size:.4rem;
     justify-content:center;
     align-items:center;
     font-family: monospace;
