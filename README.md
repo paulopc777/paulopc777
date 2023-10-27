@@ -1,16 +1,6 @@
 
 * * *
-
-Ola meu nome e Paulo !
-======================
-
-_Esse e meu ropositorio do github_
-
-👨‍💻
-
-<img src="./div.svg">
-
-* * *
+<img src="./name.svg" width="100%">
 
 Skills
 
