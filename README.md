@@ -1,4 +1,3 @@
-.text-conteiner{ background-color:black; display:flex; justify-content:space-around; aling-items:center; padding:1rem; } .icon-text{ font-size:4rem; } .skill-conteiner{ background-color:black; padding:1rem; } .skill-conteiner p { margin:0; font-size:2rem; } .More-conteiner{ background-color:black; display:flex; flex-direction:column; justify-content:center; aling-items:center; padding:1rem; } .More-conteiner p { margin:0; font-size:1.3rem; margin-left:1.5rem; list-style-type: circle; }
 
 * * *
 
@@ -8,6 +7,8 @@ Ola meu nome e Paulo !
 _Esse e meu ropositorio do github_
 
 👨‍💻
+
+<img src="./div.svg">
 
 * * *
 
