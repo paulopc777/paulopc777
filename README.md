@@ -1,6 +1,6 @@
 
 
-<img src="./name.svg" >
+<img src="./name.svg" height="60%">
 
 
 ## Minhas Skills 
