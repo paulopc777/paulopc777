@@ -3,7 +3,8 @@
 <img src="./name.svg" height="60%">
 
 
-<h3 align="center"> Minhas Skills </h3>
+$${\color{green}Skills}$$	
+
 <hr>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/99139310/178839919-98285d21-873f-4058-a649-3715f34b759e.png" width="35px">
@@ -19,7 +20,7 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="35px">
 </div>
 <hr>
-<br>
+</br>
 
 <div align="center">
 <code>Programador Full Stack 💻
@@ -27,7 +28,7 @@ Amante de Tecnologia ❤️
 Cursando analise e desenvolvimentod e sistemas 🚀
 Sempre evoluindo 📈</code>
 </div>
-
+</br>
 
 > [!IMPORTANT]
 > Me siga :shipit:
