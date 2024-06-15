@@ -2,22 +2,26 @@
 # Hi, I'm Paulo 👨🏻‍💻
 
 
-I'm a tech lead (automation) from Brazil.
-
+I'm a tech lead (automation) from Brazil.<br/>
 At the moment working as a full stack and building some personal projects.
 
 ---
 
-<div style="display: flex;justify-content: center;align-items: center;">
-  <img name="1" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paulopc777&theme=midnight_purple" />
-  <img name="2" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=paulopc777&theme=midnight_purple"/>
+
+<div style="display: flex; flex-direction: column">
+  <div style="display: flex; flex-direction: row">
+    
+  <img  style="min-width: 164px;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paulopc777&theme=midnight_purple" />
+      <img  style="min-width: 164px;"  src="https://streak-stats.demolab.com/?user=paulopc777&theme=midnight_purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+
+   </div>
+   <div style="display: flex; flex-direction: column">
+      <img
+	      width="743"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulopc777&theme=midnight_purple"
+      />
+   </div
 </div>
-
-<div>
-    <img style="min-width: 164px;" height="164" src="https://streak-stats.demolab.com/?user=paulopc777&theme=midnight_purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-</div>
-
-
 
 $${\color{green}Skills}$$	
 
