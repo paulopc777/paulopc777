@@ -1,41 +1,24 @@
 <svg viewBox="0 0 170 50" xmlns="http://www.w3.org/2000/svg">
   <style>
 
-
-    *{
-      margin:0;
-      padding:0;
-      font-family: monospace;
+  *{
+    font-family:poppins;
   }
-    .back{
-      display:flex;
-      justify-content: space-around;
-      align-items:center;
-      height:100%;
-    }
-
-    .text {
-    color: white;
-    flex-direction: column;
-    font-size:.4rem;
+  .back{
+    display:flex;
     justify-content:center;
     align-items:center;
-    }
-    .text h1{
-      text-transform:uppercase;
-    }
+  }
+   .text h1{
+      color:white;
+      font-size:1%;
+      width:50%;
+    } 
     .text p{
-      color:green;
+      color:white;
+      font-size:1%;
     }
 
-    .back{
-      background-color:black;
-    }
-    .emoji{
-      display:flex;
-      justify-content:center;
-    align-items:center;
-    }
   </style>
 
 
@@ -45,7 +28,7 @@
     <div xmlns="http://www.w3.org/1999/xhtml" class="back">
 
     <div xmlns="http://www.w3.org/1999/xhtml" class="text">
-      <h1>Ola meu nome e Paulo !</h1>
+      <p>Ola,meu nome e Paulo!</p>
       <p>E esse e meu ropositorio do github</p>
     </div>
 

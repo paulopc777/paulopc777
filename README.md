@@ -1,10 +1,16 @@
+### Hello Word 👋
+
+---
 
 
-<img src="./name.svg" height="60%">
 
+<a href="https://github.com/paulopc777">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopc777&layout=compact" />
+</a>
 
 $${\color{green}Skills}$$	
 
+---
 <hr>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/99139310/178839919-98285d21-873f-4058-a649-3715f34b759e.png" width="35px">
