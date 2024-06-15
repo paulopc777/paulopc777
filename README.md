@@ -5,6 +5,10 @@
 I'm a tech lead (automation) from Brazil.<br/>
 At the moment working as a full stack and building some personal projects.
 
+>[!TIP]
+> Me siga no Linkedin :shipit:
+> <a href="https://www.linkedin.com/in/paulo-cesar-granzieri-a5783b208/">Linkedin</a>
+> <a href="https://discord.com/users/375701358726348804">Discord</a>
 ---
 
 
@@ -23,9 +27,10 @@ At the moment working as a full stack and building some personal projects.
    </div
 </div>
 
+---
 $${\color{green}Skills}$$	
 
----
+
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/99139310/178839919-98285d21-873f-4058-a649-3715f34b759e.png" width="35px">
@@ -40,10 +45,7 @@ $${\color{green}Skills}$$
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="35px">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="35px">
 </div>
-<hr>
-</br>
 
-> [!IMPORTANT]
-> Me siga :shipit:
-> <a href="https://www.linkedin.com/in/paulo-cesar-granzieri-a5783b208/">linkedin</a>
+---
+
 
