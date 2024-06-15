@@ -45,5 +45,5 @@ $${\color{green}Skills}$$
 
 > [!IMPORTANT]
 > Me siga :shipit:
-<a href="https://www.linkedin.com/in/paulo-cesar-granzieri-a5783b208/">linkedin</a>
+> <a href="https://www.linkedin.com/in/paulo-cesar-granzieri-a5783b208/">linkedin</a>
 
