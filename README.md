@@ -1,6 +1,6 @@
 # Hi, I'm Paulo
 
-Desenvolvedor **Full Stack** baseado no Brasil, focado em construir soluções eficientes, escaláveis e com ótima experiência para o usuário.
+Desenvolvedor **Full Stack**, focado em construir soluções eficientes, escaláveis e com ótima experiência para o usuário.
 
 ---
 
