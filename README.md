@@ -43,7 +43,7 @@ Desenvolvedor **Full Stack**, focado em construir soluções eficientes, escalá
 ## Sobre mim
 
 * Apaixonado por música e instrumentos
-* Entusiasta de tecnologia
+* Entusiasta de Eletronica
 * Sempre aprendendo algo novo
 
 ---
