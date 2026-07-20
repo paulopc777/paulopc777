@@ -55,10 +55,7 @@ Desenvolvedor **Full Stack** apaixonado por construir soluções eficientes, esc
 - Sempre **aprendendo** algo novo
 - Focado em criar impacto através da tecnologia
 
----
-
 ## Vamos Conectar?
-
 Estou sempre aberto para novas oportunidades e colaborações.
 
 ---
